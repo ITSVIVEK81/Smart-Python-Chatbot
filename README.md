@@ -24,4 +24,4 @@ python smart_chatbot.py
 Chatbot interacts with user in terminal.
 ## Screenshot
 
-![Output](chatbot_output.png)
+![Output](chatbot_output.png.png)
